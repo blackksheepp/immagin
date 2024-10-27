@@ -39,7 +39,15 @@
 		"vitest": "^2.0.4"
 	},
 	"dependencies": {
+		"@types/js-cookie": "^3.0.6",
+		"@types/node": "^22.8.1",
+		"@types/uuid": "^10.0.0",
+		"@uploadthing/svelte": "^7.1.0",
 		"drizzle-orm": "^0.33.0",
-		"postgres": "^3.4.4"
+		"install": "^0.13.0",
+		"js-cookie": "^3.0.5",
+		"postgres": "^3.4.4",
+		"uploadthing": "^7.2.0",
+		"uuid": "^10.0.0"
 	}
 }
